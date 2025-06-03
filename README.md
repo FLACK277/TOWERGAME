@@ -197,8 +197,6 @@ This project demonstrates proficiency in:
 
 **Pratyush Rawat**
 - 🎓 Computer Science & Data Science Student at Manipal University
-- 🏆 Smart India Hackathon 2024 Runner-up
-- 💻 Passionate about game development and AI systems
 
 ### **Connect with me:**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratyush-rawat-a4b438367/)
